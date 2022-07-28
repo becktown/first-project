@@ -1,0 +1,32 @@
+body{
+  margin: 0;
+  background-color: white
+}
+h1{
+  text-align: center;
+  color: red;
+}
+
+h2 {
+  color: purple
+}
+
+h3{
+  color: orange
+}
+
+footer{
+  height:35px;
+  padding:0 ;
+}
+
+
+a {
+  font-family: Georgia, sans-serif;
+  font-size: 20px;
+}
+
+a:link    { color: pink;  }
+a:visited { color: coral;   }
+a:hover   { color: cadetblue; }
+a:active  { color: blue;  }
