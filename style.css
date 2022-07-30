@@ -31,5 +31,5 @@ a {
 /*link colors*/
 a:link    { color: red;  }
 a:visited { color: black;   }
-a:hover   { color: cadetblue; }
+a:hover   { color: darkblue; }
 a:active  { color: blue;  }
